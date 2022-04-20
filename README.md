@@ -26,8 +26,8 @@
 2.Download the Script from GitHub 
 
 ```wget https://raw.githubusercontent.com/teodorcucu/Macos-AT-DNS-Blocker/main/host-addblocker.sh```
-3.Make the script executable
 
+3.Make the script executable
 ```sudo chmod +x host-addblocker.sh```
 
 4. Run it as sudo
