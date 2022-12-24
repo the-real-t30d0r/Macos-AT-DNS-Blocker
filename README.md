@@ -26,7 +26,7 @@
 
 2.Download the Script from GitHub 
 
-```wget https://raw.githubusercontent.com/teodorcucu/Macos-AT-DNS-Blocker/main/host-addblocker.sh```
+```wget https://raw.githubusercontent.com/the-real-t30d0r/Macos-AT-DNS-Blocker/main/host-addblocker.sh```
 
 3.Make the script executable
 
